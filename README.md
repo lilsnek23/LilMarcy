@@ -1,2 +1,2 @@
-# BigSnek
-A WIP AI
+# LilMarcy
+A WIP Python AI
