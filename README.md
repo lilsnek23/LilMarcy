@@ -1,0 +1,2 @@
+# BigSnek
+A WIP AI
